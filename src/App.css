@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+.logoContainer {
+  height: 4rem;
+  width: 4rem;
+  border-radius: 50%;
+  background-color: #010b13;
+}
+
+.flex {
+  display: flex !important;
+}
+.center-center {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+.justify-center {
+  display: flex !important;
+  justify-content: center;
+}
+.align-center {
+  display: flex !important;
+  align-items: center !important;
+}
+.justify-space-btw {
+  display: flex !important;
+  justify-content: space-between;
+}
+.justify-end {
+  display: flex !important;
+  justify-content: flex-end;
+}
+.center-space-btw {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.center-space-evenly {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.css-1p0tm1n-MuiTabs-indicator {
+  display: none;
+}
+.css-jpln7h-MuiTabs-scroller {
+  display: flex !important;
+  align-items: center !important;
+}
